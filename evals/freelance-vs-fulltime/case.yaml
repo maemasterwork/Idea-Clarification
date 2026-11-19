@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: freelance-vs-fulltime
+expected_outcome: |
+  Personal decision with career stakes. The interview is gentle and reflective (values, fears, tradeoffs, what a good outcome looks like) rather than adversarial, avoids giving a recommendation of its own, checks a synthesis with the user before writing, and produces a reflection or exploration style markdown file with the five required sections and no raw Q&A transcript.

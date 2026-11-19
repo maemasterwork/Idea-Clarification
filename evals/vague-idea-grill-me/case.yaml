@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: vague-idea-grill-me
+expected_outcome: |
+  The topic is too vague to interview on. The first reply is a single short scoping question (not a multi-question round and not a pile of generic questions), and only after the user explains the idea does the interview proceed. The run then continues as an interview and ends with a confirmed synthesis and a structured markdown document.

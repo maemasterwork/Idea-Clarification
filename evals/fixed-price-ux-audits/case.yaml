@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: fixed-price-ux-audits
+expected_outcome: |
+  Business/strategy topic. The interview opens directly on the topic, probes pricing assumptions, scope creep, client segment and risks with some challenge, rotates question directions, proposes a synthesis with underexplored areas before writing, and produces a decision-doc style markdown file with Overview, Key Themes, Decisions & Positions, Open Questions, and Constraints & Boundaries, without a raw Q&A transcript.
